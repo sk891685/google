@@ -1,0 +1,68 @@
+{
+  "others_ledger": [
+    {
+      "id": 1,
+      "name": "Sansfe",
+      "amount": 700,
+      "expiry_date": "2026-03-31",
+      "phone": "9127353578",
+      "key": "cd9fce5bbc5af4ce0970d7d968288a5232d24044e29edc8fa5536ccb08b23971"
+    },
+    {
+      "id": 2,
+      "name": "Unknown",
+      "amount": 350,
+      "expiry_date": "2026-03-21",
+      "phone": "8179367037",
+      "key": "7924a64c32f3bfe62ab9930ecf57daaae372af3ceec5d3e0af4fabf3d73660c6"
+    },
+    {
+      "id": 3,
+      "name": "Upr vale ka dost",
+      "amount": null,
+      "expiry_date": "2026-03-26",
+      "phone": null,
+      "key": "5c51945605c3125525b121eb86ea3f160da7a101ffce2e939e4033efa4e9e745"
+    },
+    {
+      "id": 4,
+      "name": "Urja",
+      "amount": null,
+      "expiry_date": "2026-12-31",
+      "phone": "9936416593",
+      "key": "26cb6e9881b82b3cf1927ef6fae560f90720caa31904362168dbdb00b1b82c2a"
+    },
+    {
+      "id": 5,
+      "name": "Urja",
+      "amount": 450,
+      "expiry_date": "2026-02-21",
+      "phone": null,
+      "key": "918c485fc8a8dd3158d3ab66dd44de7b02db39518c2c61edc6a506d1a4d21fff"
+    },
+    {
+      "id": 6,
+      "name": "Zepto Bro",
+      "amount": null,
+      "expiry_date": null,
+      "phone": null,
+      "key": "e73348e8af13ce35c08a0d0918c461d7ecafcb3e4beece18513403efec1d8f77"
+    },
+    {
+      "id": 7,
+      "name": "ZEPTO",
+      "amount": null,
+      "expiry_date": "2026-02-20",
+      "notes": "only 25days liya tha",
+      "key": "c3cf8189371d7417b4cf6d3cf97c3f25bfaa8cc1cf769b2e652bacb1ae6276e2"
+    },
+    {
+      "id": 8,
+      "name": "Mere sikhsk app",
+      "amount": 400,
+      "expiry_date": null,
+      "phone": "8815109952",
+      "key": null
+    }
+  ]
+}
